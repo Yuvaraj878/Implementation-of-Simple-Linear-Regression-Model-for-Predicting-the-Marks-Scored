@@ -86,7 +86,7 @@ print("Root Mean Square Error = ",rmse)
 ![2](./2.png)
 ### Compare Dataset
 ![3](./3.png)
-### Predicted Valuw
+### Predicted Value
 ![4](./4.png)
 ### Graph For Training Set
 ![5](./5.png)
